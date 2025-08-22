@@ -20,7 +20,10 @@ class CryptoBalanceBot:
         self.rpc_endpoints = {
             'ethereum': 'https://eth.llamarpc.com',
             'base': 'https://mainnet.base.org',
+            'ink': 'https://rpc-gel.inkonchain.com',
             'arbitrum': 'https://arb1.arbitrum.io/rpc',
+            'hyperliquid': 'https://rpc.hyperliquid.xyz/evm',
+            'unichain': 'https://mainnet.unichain.org',
             'polygon': 'https://polygon-rpc.com',
             'optimism': 'https://mainnet.optimism.io',
             'bsc': 'https://bsc-dataseed.binance.org',
@@ -33,7 +36,10 @@ class CryptoBalanceBot:
         self.chain_names = {
             'ethereum': 'Ethereum',
             'base': 'Base',
+            'ink': 'Ink',
             'arbitrum': 'Arbitrum',
+            'hyperliquid': 'Hyperliquid',
+            'unichain': 'Unichain',
             'polygon': 'Polygon',
             'optimism': 'Optimism',
             'bsc': 'BSC',
