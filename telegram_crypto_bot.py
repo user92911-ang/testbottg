@@ -140,7 +140,10 @@ I can help you check ETH balances across multiple EVM chains!
 **Supported Chains:**
 • Ethereum Mainnet
 • Base
+• Ink
 • Arbitrum
+• Hyperliquid
+• Unichain
 • Polygon
 • Optimism
 • BSC
