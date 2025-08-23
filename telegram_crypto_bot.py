@@ -99,7 +99,6 @@ I can help you check ETH balances across multiple EVM chains!
 **Example:**
 0x742d35Cc6634C0532925a3b8D5C9E49C7F59c2c4
 0xd8dA6BF26964aF9D7eEd9e03E53415D37aA96045
-0x8ba1f109551bD432803012645Hac136c9c36E7d
 """
     await update.message.reply_text(welcome_message, parse_mode='Markdown')
 
